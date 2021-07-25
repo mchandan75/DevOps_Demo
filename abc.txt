@@ -1,3 +1,10 @@
 # Hi Everyone
 
 This is Chandan Mohanty
+
+
+To revert back/change version of your code in git remote,
+
+git reset --hard <commit_id>
+
+then push to remote
